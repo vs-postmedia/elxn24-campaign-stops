@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73e9da7135333f58bcbbc0b4257073bc",
+    "revision": "15554f34d3b807fa6903aac6007f9cae",
     "url": "/elxn24-campaign-stops/index.html"
   },
   {
-    "revision": "fd988449d27b35c8f3dc",
-    "url": "/elxn24-campaign-stops/static/css/main.0bd3b5cf.chunk.css"
+    "revision": "45ba3ad0740673464cce",
+    "url": "/elxn24-campaign-stops/static/css/main.64106fc2.chunk.css"
   },
   {
     "revision": "48070cc15c28b9eb18d2",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elxn24-campaign-stops/static/js/2.825496b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd988449d27b35c8f3dc",
-    "url": "/elxn24-campaign-stops/static/js/main.a32abea3.chunk.js"
+    "revision": "45ba3ad0740673464cce",
+    "url": "/elxn24-campaign-stops/static/js/main.b01cf42c.chunk.js"
   },
   {
     "revision": "5d80c3ec7dfe9e587f69",
