@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/elxn24-campaign-stops/precache-manifest.336d6065e760f285e71ac17ea06142cb.js"
+  "/elxn24-campaign-stops/precache-manifest.c4ac27bf9df00e28db4b7d342285f777.js"
 );
 
 self.addEventListener('message', (event) => {
