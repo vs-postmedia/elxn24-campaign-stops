@@ -1,0 +1,47 @@
+.App .step {
+	height: 100vh;
+	margin: 0 auto 2rem 5%;
+	max-width: 300px;
+}
+
+.App .step .card {
+	background-color: rgba(255, 255, 255, 0.8);
+	max-width: 300px;
+	padding: 7px;
+}
+
+.App .step .card > h2 {
+	margin-bottom: 7px;
+}
+.App .step .card > p {
+	line-height: 1.5rem;
+}
+
+.App .step .card .scroll-note {
+	color: var(--grey02);
+	font-family: BentonSansCond-RegItalic, sans-serif;
+	margin: 5px 0;
+	text-align: center;
+}
+.App .step .card .furstenau {
+	color: var(--greenbc);
+}
+.App .step .card .horgan {
+	color: var(--ndpbc);
+}
+.App .step .card .wilkinson {
+	color: var(--liberalbc);
+}
+
+.App .step:last-child {
+	height: 50vh;
+    margin-bottom: 100vh;
+}
+
+
+
+@media only screen and (min-width: 500px) {
+   .App .step {
+   		margin: 0 auto 2rem 20%;
+   }
+}

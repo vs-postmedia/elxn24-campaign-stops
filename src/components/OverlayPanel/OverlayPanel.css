@@ -1,0 +1,19 @@
+.App .overlay-panel {
+	background-color: rgb(255,255,255,0.8);
+	margin: 20px;
+	padding: 10px;
+	position: fixed;
+	right: 0;
+	top: 0;
+	z-index: 100;
+}
+
+.App .overlay-panel h2 {
+	color: var(--highlight);
+	margin-bottom: 7px;
+}
+
+
+.App .overlay-panel .input-slider {
+	margin-bottom: 15px;
+}
